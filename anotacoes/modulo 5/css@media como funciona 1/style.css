@@ -1,0 +1,19 @@
+body{
+	background-color: #555;
+}
+
+@media (min-width: 1000px){
+	body{
+		background-color: #00f;
+	}
+}
+@media (min-width: 700px) and (max-width: 999px){
+	body{
+		background-color: purple;
+	}
+}
+@media (min-width: 300px) and (max-width: 699px){
+	body{
+		background-color: royalblue;
+	}
+}

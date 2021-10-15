@@ -1,0 +1,203 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+	font-family: arial;
+}
+/*começando o header*/
+header{
+	height: 120px;
+	display: flex;
+	justify-content: center;
+	background-image:url('../images/cyberpunk-2077-capa.jpg');
+	background-position: center top;
+	background-size: 100% 334px;
+	background-repeat: no-repeat;
+}
+.container{
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+	flex-direction: column;
+	width: 100%;
+	max-width: 1150px;
+}
+.nome{
+	font-size: 55px;
+	color: #c6f7b2;
+}
+.menu{
+	width: 100%;
+}
+.MenuMobile{
+	display: none;
+	width: 40px;
+	height: 40px;
+}
+.mm_line{
+	width: 100%;
+	height: 3px;
+	background-color: #c6f7b2;
+}
+nav ul,
+nav li{
+	margin: 0px;
+	padding: 0px;
+	list-style: none;
+}
+nav ul{
+	display: flex;
+	justify-content: space-around;
+}
+nav a{
+	display: block;
+	text-decoration: none;
+	color: #c6f7b2;
+	font-size: 20px;
+}
+nav a:hover{
+	text-decoration: underline;
+}
+.active{
+	text-decoration: underline;
+}
+/*terminando o header*/
+/*começando a section #geral*/
+#geral{
+	display: flex;
+	justify-content: center;
+	background-color: #ededed;
+}
+.gallery{
+	display: flex;
+	justify-content: center;
+	background-color: #fff;
+}
+.widget_gal{
+	color: #000;
+	font-size: 35px;
+	padding: 15px 300px 15px 300px;
+	border-bottom: 1px solid #000;
+	font-weight: bold;
+}
+.widget_photos{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+	margin-top: 15px;
+}
+.widget_photos img{
+	margin: 15px;
+	border: 2px solid #000;
+	padding: 15px;
+	border-radius: 5px;
+}
+.keanu1{
+	width: 230px;
+	height: 242px;
+}
+.keanu2{
+	width: 230px;
+	height: 154px;
+}
+.keanu3{
+	width: 230px;
+	height: 295px;
+}
+.keanu4{
+	width: 230px;
+	height: 141px;
+}
+.keanu5{
+	width: 230px;
+	height: 232px;
+}
+.keanu6{
+	width: 230px;
+	height: 165px;
+}
+.keanu7{
+	width: 230px;
+	height: 139px;
+}
+.keanu8{
+	width: 230px;
+	height: 150px;
+}
+.keanu9{
+	width: 230px;
+	height: 142px;
+}
+.keanu10{
+	width: 230px;
+	height: 328px;
+}
+.keanu11{
+	width: 230px;
+	height: 203px;
+}
+.keanu12{
+	width: 230px;
+	height: 262px;
+}
+.keanu13{
+	width: 230px;
+	height: 154px;
+}
+/*começamdo o footer*/
+footer{
+	display: flex;
+	justify-content: center;
+	height: 85px;
+	background-color: #3c3c3c;
+}
+.footer{
+	display: flex;
+	flex-direction: row;
+	color: #fff;
+}
+.footer a{
+	text-decoration: none;
+	color: #fff;
+}
+.footer a:hover{
+	text-decoration: underline;
+}
+@media only screen and (max-width: 600px){
+	header{
+		height: auto;
+	}
+	.nome{
+		font-size: 44px;
+		margin-top: 10px;
+		margin-bottom: 10px;
+	}
+	.widget_gal{
+		padding-right: 101px;
+		padding-left: 101px;
+	}
+	.MenuMobile{
+		display: flex;
+		flex-direction: column;
+		justify-content: space-between;
+		margin: auto;
+		margin-bottom: 10px;
+	}
+	nav ul{
+		display: none;
+		flex-direction: column;
+		position: absolute;
+		width: 100%;
+		background-color: #fff;
+		background-color: #ededed;
+	}
+	nav a{
+		color: #000;
+		padding-top: 5px;
+		padding-bottom: 5px;
+	}
+	.footer{
+		flex-direction: column;
+		font-size: 12px;
+	}
+}

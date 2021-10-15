@@ -1,0 +1,23 @@
+.balao{
+	background-color: blue;
+	display: inline-block;
+	color: white;
+	padding: 20px;
+	border-radius: 17px;
+}
+.balao::after{
+	content: "";
+	display: inline-block;
+	position: absolute;
+	top: 23px;
+	margin-left: 45px;
+	border: 17px solid;
+	border-color: transparent transparent transparent blue;
+}
+.teste{
+	width: 0px;
+	background-color: green;
+	margin: auto;
+	border: 100px solid;
+	border-color: yellow green red blue;
+}

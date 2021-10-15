@@ -1,0 +1,138 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+	font-family: arial;
+}
+/*começando o header*/
+header{
+	display: flex;
+	justify-content: center;
+	width: 100%;
+	height: 100px;
+	background-color: #628f64;
+}
+.container{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 100%;
+	max-width: 900px;
+}
+.title_head{
+	font-size: 60px;
+	color: #fff;
+}
+/*terminando o header*/
+/*começando a section*/
+section{
+	display: flex;
+	justify-content: center;
+}
+form{
+	display: flex;
+	justify-content: space-around;
+	width: 100%;
+	border-top: 1px solid #000;
+	border-bottom: 1px solid #000;
+	margin-top: 93px;
+	margin-bottom: 93px;
+	padding-top: 15px;
+	padding-bottom: 30px;
+}
+.part_1 input,
+.part_1 select{
+	height: 35px;
+	background-color: #ccc;
+	border-radius: 5px;
+	outline: 0;
+	border: 1px solid #fff;
+	padding-left: 10px;
+}
+.part_1 div{
+	margin-top: 15px;
+	margin-left: 1px;
+}
+.part_1 input{
+	margin-top: 5px;
+}
+.send{
+	display: flex;
+}
+.send input{
+	margin-top: 15px;
+	padding: 10px;
+	color: #fff;
+	background-color: #6ca66f;
+	cursor: pointer;
+}
+.cad{
+	margin-right: 5px;
+}
+/*terminando a section*/
+/*começando o footer*/
+footer{
+	display: flex;
+	justify-content: center;
+	background-color: #628f64;
+	height: 80px;
+}
+.footer{
+	justify-content: space-between;
+}
+.footer div{
+	color: #fff;
+	font-size: 15px;
+}
+@media only screen and (min-width:422px) and (max-width:530px){
+	.title_head{
+		font-size: 40px;
+	}
+}
+@media only screen and (min-width:320px) and (max-width:422px){
+	.title_head{
+		font-size: 35px;
+	}
+	form{
+		flex-direction: column;
+	}
+	.part_1{
+		display: flex;
+		flex-direction: column;
+		padding-right: 10px;
+		padding-left: 10px;
+	}
+	.footer{
+		justify-content: space-around;
+	}
+	.footer div{
+		font-size: 12px;
+	}
+	small{
+		margin-top:-13px;
+	}
+}
+@media only screen and (max-width:320px){
+	.title_head{
+		font-size: 27px;
+	}
+	form{
+		flex-direction: column;
+	}
+	.part_1{
+		display: flex;
+		flex-direction: column;
+		justify-content: center;
+		padding-right: 10px;
+		padding-left: 10px;
+	}
+	.footer{
+		justify-content: space-around;
+	}
+	.footer div{
+		font-size: 12px;
+	}
+	small{
+		margin-top:-13px;
+	}
+}

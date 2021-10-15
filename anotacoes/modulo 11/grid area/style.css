@@ -1,0 +1,28 @@
+.container{
+	background-color: #ccc;
+	display: grid;
+	grid-template-columns: repeat(3, 1fr);
+	grid-gap: 10px;
+}
+	/*
+	
+	 */
+.item{
+	background-color: #00f;
+	border-radius: 10px;
+	padding: 20px;
+	color: #fff;
+	font-size: 20px;
+}
+.item1{
+	/*
+	grid-row-start
+	grid-column-start
+	grid-row-end
+	grid-column-end
+	 */
+	grid-area: 1 / 1 / 4 /3;
+}
+.item6{
+	grid-area: 4 / 2 / 7 / 4;
+}

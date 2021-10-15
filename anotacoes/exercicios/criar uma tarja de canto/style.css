@@ -1,0 +1,28 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+div{
+	width: 315px;
+	height: 65px;
+	line-height: 65px;
+	margin-left: -86px;
+	margin-top: 26px;
+	padding-top: 4px;
+	padding-bottom: 6px;
+	position: absolute;
+	transform: rotate(315deg);
+	background: linear-gradient(180deg, #3d7dc5, #4fa0fb);
+	box-shadow: 0px 0px 8px #6d6d6d;
+}
+a{
+	width: 315px;
+	height: 65px;
+	font-size: 22px;
+	padding-left: 76px;
+	display: block;
+	text-decoration: none;
+	border-top: 1px solid #fff;
+	border-bottom: 1px solid #fff;
+	color: #fff;
+}

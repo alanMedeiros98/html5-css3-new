@@ -1,0 +1,29 @@
+.input{
+	width: 400px;
+	height: 50px;
+	font-size: 27px;
+	color: #ff0000;
+}
+.input::placeholder{ /*todos os navegadores*/
+	color: #00ff00;
+	text-align: center;
+	background-image: url('Eren.jpg');
+	background-size: 40px 40px;
+	background-repeat: no-repeat;
+}
+
+.input::-webkit-input-placeholder{ /*webkit blink edge*/
+	color: #ff0000;
+}
+.input:-moz-input-placeholder{ /*firefox 4 ao 18*/
+	color: #ff0000;
+}
+.input::-moz-input-placeholder{ /*firefox 19+*/
+	color: #ff0000;
+}
+.input:-ms-input-placeholder{ /*IE 10 e 11*/
+	color: #ff0000;
+}
+.input::-ms-input-placeholder{ /*microsoft edge*/
+	color: #ff0000;
+}

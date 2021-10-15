@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>Página de Cadastro</title>
+	<link rel="stylesheet" href="assets/css/style.css">
+	<meta name="viewport" content="width=device-width,user-scalable=0"/>
+</head>
+<body>
+	<header>
+		<div class="container">
+			<div class="title_head">Página de Cadastro</div>
+		</div>
+	</header>
+	<section>
+		<div class="container">
+			<form action="" method="POST" accept-charset="utf-8">
+				<div class="part_1">
+					<div>Nome Completo:</div>
+					<input type="text" placeholder="Nome Completo" required name="nome">
+					<div>RG:</div>
+					<input type="text" name="rg" maxlength="7" placeholder="0.000.000" required><br>
+					<small>(preencha só com os números)</small>
+					<div>Pai:</div>
+					<input type="text" placeholder="Nome do Pai" nama="pai">
+					<div>Mãe:</div>
+					<input type="text" placeholder="Nome da mãe" nama="mae" required>
+					<div>Escolaridade:</div>
+					<select name="escolaridade" required>
+						<option value="0"></option>
+						<option value="EFC">Ensino Fundamental completo</option>
+						<option value="EFI">Ensino Fundamental imcompleto</option>
+						<option value="EMC">Ensino Médio completo</option>
+						<option value="EMI">Ensino Médio imcompleto</option>
+						<option value="CSC">Curso Superior completo</option>
+						<option value="CSI">Curso Superior imcompleto</option>
+					</select>
+					<div>Telefone:</div>
+					<input type="tel" name="tel" placeholder="0000-0000">
+					<div>E-Mail:</div>
+					<input type="email" name="email" placeholder="exemplo@gmail.com" autocomplete="off" required>
+				</div>
+				<div class="part_1">
+					<div>Data de Nascimento:</div>
+					<input type="date" name="data_nascimento" required>
+					<div>CPF:</div>
+					<input type="text" name="cpf" placeholder="000.000.000-00" required><br>
+					<small>(preencha só com os números)</small>
+					<div>Profissão:</div>
+					<input type="text" name="prof" placeholder="profissão" required>
+					<div>Celular:</div>
+					<input type="tel" name="cel" placeholder="(00) 90000-0000" required><br>
+					<small>(preencha só com os números)</small>
+					<div class="send">
+						<input type="submit" value="Cadastrar" class="cad">
+						<input type="reset" value="Limpar Dados">
+					</div>
+				</div>
+			</form>
+		</div>
+	</section>
+	<footer>
+		<div class="container footer">
+			<div>Todos os direitos reservados</div>
+			<div>Made by Alan Medeiros</div>
+		</div>
+	</footer>
+</body>
+</html>

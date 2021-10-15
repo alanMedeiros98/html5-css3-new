@@ -1,0 +1,16 @@
+div{
+	background-color: red;
+	width: 300px;
+	height: 300px;
+	margin: auto;
+	transform: scale(2);
+}
+
+/*
+scale - é basicamene a escala do meu elemento e ele tem varias formas de scale sendo elas :
+-- scale
+-- scale3d
+-- scaley
+-- scalex
+-- scalez
+ */

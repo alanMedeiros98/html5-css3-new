@@ -1,0 +1,442 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"html",
+				"html5"
+			],
+			[
+				"over",
+				"overflow-x"
+			],
+			[
+				"animat",
+				"animation-name"
+			],
+			[
+				"htm",
+				"html5"
+			],
+			[
+				"back",
+				"background-repeat"
+			],
+			[
+				"c",
+				"contain"
+			],
+			[
+				"ht",
+				"html5"
+			],
+			[
+				"hm",
+				"html5"
+			],
+			[
+				"paddin",
+				"padding-right\tproperty"
+			],
+			[
+				"align",
+				"align-items\tproperty"
+			],
+			[
+				"max",
+				"maxlength\tAttr"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"bill",
+				"bill e ted 3.png\tw:175 h:278"
+			],
+			[
+				"al",
+				"always be my maybe.png\tw:182 h:276"
+			],
+			[
+				"j",
+				"john wick 3.png\tw:120 h:184"
+			],
+			[
+				"jo",
+				"john wick 2.png\tw:153 h:224"
+			],
+			[
+				"homem",
+				"o homem do tai chi.png\tw:179 h:278"
+			],
+			[
+				"vi",
+				"a vida intima de pippa lee.png\tw:180 h:279"
+			],
+			[
+				"o",
+				"o homem duplo.png\tw:178 h:279"
+			],
+			[
+				"a",
+				"a casa do lago.png\tw:152 h:234"
+			],
+			[
+				"im",
+				"impulsividade.png\tw:183 h:275"
+			],
+			[
+				"matrix",
+				"matrix revolutions.png\tw:180 h:277"
+			],
+			[
+				"ma",
+				"matrix reloaded.png\tw:180 h:275"
+			],
+			[
+				"ca",
+				"caminhando nas nuvens.png\tw:183 h:278"
+			],
+			[
+				"ti",
+				"o tiro que nao saiu pela culatra.png\tw:176 h:278"
+			],
+			[
+				"i",
+				"initial\tz-index"
+			],
+			[
+				"bac",
+				"background-repeat\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"bo",
+				"content-box\tbox-sizing"
+			],
+			[
+				"in",
+				"inline-block\tdisplay"
+			],
+			[
+				"col",
+				"column\tflex-direction"
+			],
+			[
+				"animation",
+				"animation-name\tproperty"
+			],
+			[
+				"fle",
+				"flex-direction\tproperty"
+			],
+			[
+				"for",
+				"form\tTag"
+			],
+			[
+				"alig",
+				"align-items\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/wamp/www/html5ecss3/anotacoes/modulo 11/container e item/style.css",
+		"/C/wamp/www/html5ecss3/anotacoes/modulo 11/container e item/index.html",
+		"/C/wamp/www/html5ecss3/anotacoes/modulo 10/assets/css/style.css",
+		"/C/wamp/www/html5ecss3/anotacoes/modulo 10/index.html",
+		"/C/Users/alan/AppData/Local/Temp/Rar$DRa3352.9365/icones/facebook.png",
+		"/C/Users/alan/AppData/Local/Temp/Rar$DRa3352.9365/icones/googleplus.png",
+		"/C/Users/alan/AppData/Local/Temp/Rar$DRa3352.9365/icones/estrela.png",
+		"/C/Users/alan/AppData/Local/Temp/Rar$DRa3352.9365/icones/carta.png",
+		"/C/Users/alan/AppData/Local/Temp/Rar$DRa3352.9365/icones/check.png",
+		"/C/Users/alan/AppData/Local/Temp/Rar$DRa3352.9365/icones/arroba.png",
+		"/C/Users/alan/AppData/Local/Temp/Rar$DRa3352.9365/icones/balao.png",
+		"/C/Users/alan/AppData/Local/Temp/Rar$DRa3352.9365/icones/linkedin.png",
+		"/C/Users/alan/AppData/Local/Temp/Rar$DRa3352.9365/icones/localizacao.png",
+		"/C/Users/alan/AppData/Local/Temp/Rar$DRa3352.9365/icones/menu.png",
+		"/C/Users/alan/AppData/Local/Temp/Rar$DRa3352.9365/icones/medalha.png",
+		"/C/Users/alan/AppData/Local/Temp/Rar$DRa3352.9365/icones/pinterest.png",
+		"/C/Users/alan/AppData/Local/Temp/Rar$DRa3352.9365/icones/quote.png",
+		"/C/Users/alan/AppData/Local/Temp/Rar$DRa3352.9365/icones/share.png",
+		"/C/Users/alan/AppData/Local/Temp/Rar$DRa3352.9365/icones/web.png",
+		"/C/Users/alan/AppData/Local/Temp/Rar$DRa3352.9365/icones/twitter.png",
+		"/C/Users/alan/AppData/Local/Temp/Rar$DRa3352.9365/icones/telefone.png",
+		"/C/Users/alan/AppData/Local/Temp/Rar$DRa3352.9365/icones/relogio.png",
+		"/C/wamp/www/html5ecss3/anotacoes/modulo 10/style.css",
+		"/C/wamp/www/html5ecss3/anotacoes/exercicios/style.css",
+		"/C/wamp/www/html5ecss3/anotacoes/exercicios/devsla/style.css",
+		"/C/wamp/www/html5ecss3/anotacoes/exercicios/devsla/index.html",
+		"/C/wamp/www/html5ecss3/anotacoes/exercicios/criar uma tarja de canto/style.css",
+		"/C/wamp/www/html5ecss3/anotacoes/exercicios/criar uma tarja de canto/index.html",
+		"/C/wamp/www/html5ecss3/anotacoes/exercicios/botão com css3/style.css",
+		"/C/wamp/www/html5ecss3/anotacoes/exercicios/botão com css3/index.html",
+		"/C/wamp/www/html5ecss3/anotacoes/exercicios/tabela zebrada - mod 8/style.css",
+		"/C/wamp/www/html5ecss3/anotacoes/exercicios/tabela zebrada - mod 8/index.html",
+		"/C/wamp/www/html5ecss3/anotacoes/modulo 3/tabelas no css3/style.css",
+		"/C/wamp/www/html5ecss3/anotacoes/modulo 3/tabelas no css3/index.html",
+		"/C/wamp/www/html5ecss3/anotacoes/modulo 3/tabelas no html/index.html",
+		"/C/wamp/www/html5ecss3/anotacoes/modulo 3/tabelas no html/style.css",
+		"/C/wamp/www/html5ecss3/anotacoes/exercicios/tabela zebrada/style.css",
+		"/C/wamp/www/html5ecss3/anotacoes/exercicios/tabela zebrada/index.html",
+		"/C/wamp/www/html5ecss3/anotacoes/modulo 8/estilizar o placeholder/index.html",
+		"/C/wamp/www/html5ecss3/anotacoes/modulo 8/estilizar o placeholder/style.css",
+		"/C/wamp/www/html5ecss3/anotacoes/modulo 8/box-sizing/style.css",
+		"/C/wamp/www/html5ecss3/anotacoes/modulo 8/box-sizing/index.html",
+		"/C/wamp/www/html5ecss3/anotacoes/modulo 8/transform pt2/style.css",
+		"/C/wamp/www/html5ecss3/anotacoes/modulo 8/transform pt2/index.html",
+		"/C/wamp/www/html5ecss3/anotacoes/modulo 8/transform pt1/style.css",
+		"/C/wamp/www/html5ecss3/anotacoes/modulo 8/transform pt1/index.html",
+		"/C/wamp/www/html5ecss3/anotacoes/modulo 8/RGBA/style.css",
+		"/C/wamp/www/html5ecss3/anotacoes/modulo 8/RGBA/index.html",
+		"/C/wamp/www/html5ecss3/anotacoes/modulo 8/seletror before e after (exemplo do balão)/index.html",
+		"/C/wamp/www/html5ecss3/anotacoes/modulo 8/seletror before e after (exemplo do balão)/style.css",
+		"/C/wamp/www/html5ecss3/anotacoes/modulo 8/seletor before after/style.css",
+		"/C/wamp/www/html5ecss3/anotacoes/modulo 8/seletor before after/index.html",
+		"/C/wamp/www/html5ecss3/anotacoes/modulo 8/seletor NTH/style.css",
+		"/C/wamp/www/html5ecss3/anotacoes/modulo 8/seletor NTH/index.html",
+		"/C/wamp/www/html5ecss3/anotacoes/modulo 8/seletor negativo/style.css",
+		"/C/wamp/www/html5ecss3/anotacoes/modulo 8/seletor negativo/index.html",
+		"/C/wamp/www/html5ecss3/anotacoes/modulo 8/seletor de primeiro e ultimo elemento/style.css",
+		"/C/wamp/www/html5ecss3/anotacoes/modulo 8/seletor de primeiro e ultimo elemento/index.html",
+		"/C/wamp/www/html5ecss3/anotacoes/modulo 8/seletor de primeira linha e primeira letra/style.css",
+		"/C/wamp/www/html5ecss3/anotacoes/modulo 8/seletor de primeira linha e primeira letra/index.htm",
+		"/C/wamp/www/html5ecss3/anotacoes/modulo 8/seletor de elemento vazio/style.css",
+		"/C/wamp/www/html5ecss3/anotacoes/modulo 8/seletor de elemento vazio/index.html",
+		"/C/wamp/www/html5ecss3/anotacoes/modulo 8/seletor pelo atributo pt2/style.css",
+		"/C/wamp/www/html5ecss3/anotacoes/modulo 8/seletor pelo atributo pt2/index.html",
+		"/C/wamp/www/html5ecss3/anotacoes/modulo 8/seletor pelo atributo pt1/style.css",
+		"/C/wamp/www/html5ecss3/anotacoes/modulo 8/seletor pelo atributo pt1/index.html",
+		"/C/wamp/www/html5ecss3/anotacoes/modulo 6/tag figure/style.css",
+		"/C/wamp/www/html5ecss3/anotacoes/modulo 6/tag figure/index.html",
+		"/C/wamp/www/html5ecss3/anotacoes/modulo 6/tag address/style.css",
+		"/C/wamp/www/html5ecss3/anotacoes/modulo 6/tag address/index.html",
+		"/C/wamp/www/html5ecss3/anotacoes/modulo 6/Tag Main/index.html",
+		"/C/wamp/www/html5ecss3/anotacoes/modulo 6/Tag Main/style.css",
+		"/C/wamp/www/html5ecss3/anotacoes/modulo 6/citações/style.css",
+		"/C/wamp/www/html5ecss3/anotacoes/modulo 6/citações/index.html",
+		"/C/wamp/www/html5ecss3/anotacoes/modulo 6/listas de descrição/style.css",
+		"/C/wamp/www/html5ecss3/anotacoes/modulo 6/listas de descrição/index.html",
+		"/C/wamp/www/html5ecss3/anotacoes/modulo 5/hack css - altura relativa a largura/style.css",
+		"/C/wamp/www/html5ecss3/anotacoes/modulo 5/hack css - altura relativa a largura/index.html",
+		"/C/wamp/www/html5ecss3/anotacoes/modulo 5/função var em media query/index.html",
+		"/C/wamp/www/html5ecss3/anotacoes/modulo 5/função var em media query/style.css",
+		"/C/wamp/www/html5ecss3/anotacoes/modulo 5/funçaõ var/style.css",
+		"/C/wamp/www/html5ecss3/anotacoes/modulo 5/funçaõ var/index.html",
+		"/C/wamp/www/html5ecss3/anotacoes/modulo 5/Aspect-radio no @media/style.css",
+		"/C/wamp/www/html5ecss3/anotacoes/modulo 5/Aspect-radio no @media/index.html",
+		"/C/wamp/www/html5ecss3/anotacoes/modulo 5/orientation no @media/style.css",
+		"/C/wamp/www/html5ecss3/anotacoes/modulo 5/orientation no @media/index.html",
+		"/C/wamp/www/html5ecss3/anotacoes/modulo 5/css@media como funciona 2/style.css",
+		"/C/wamp/www/html5ecss3/anotacoes/modulo 5/css@media como funciona 2/index.html",
+		"/C/wamp/www/html5ecss3/anotacoes/modulo 5/css@media como funciona 1/style.css",
+		"/C/wamp/www/html5ecss3/anotacoes/modulo 5/css@media como funciona 1/index.html",
+		"/C/wamp/www/html5ecss3/anotacoes/modulo 5/imagens responsivas - propriedade Object-fit/style.css",
+		"/C/wamp/www/html5ecss3/anotacoes/modulo 5/imagens responsivas - propriedade Object-fit/index.html",
+		"/C/wamp/www/html5ecss3/anotacoes/modulo 5/imagens responsivas - pictures e source/index.html",
+		"/C/wamp/www/html5ecss3/anotacoes/modulo 5/imagens responsivas - pictures e source/style.css",
+		"/C/wamp/www/html5ecss3/anotacoes/modulo 5/mobile first/style.css",
+		"/C/wamp/www/html5ecss3/anotacoes/modulo 5/mobile first/index.html",
+		"/C/wamp/www/html5ecss3/anotacoes/index.php",
+		"/C/wamp/www/html5ecss3/anotacoes/modulo 4/tipos de valores para cores/style.css",
+		"/C/wamp/www/html5ecss3/anotacoes/modulo 4/tipos de valores para cores/index.html",
+		"/C/wamp/www/html5ecss3/anotacoes/modulo 4/o inherit/index.html",
+		"/C/wamp/www/html5ecss3/anotacoes/modulo 4/o inherit/style.css",
+		"/C/wamp/www/html5ecss3/anotacoes/modulo 4/unidades de medida relativas (viewport)/index.html",
+		"/C/wamp/www/html5ecss3/anotacoes/modulo 4/unidades de medida relativas (viewport)/style.css",
+		"/C/wamp/www/html5ecss3/anotacoes/modulo 4/unidade de medida relativa (fonte)2/style.css",
+		"/C/wamp/www/html5ecss3/anotacoes/modulo 4/unidade de medida relativa (fonte)2/index.html",
+		"/C/wamp/www/html5ecss3/anotacoes/modulo 4/unidade de medida relativa (fonte)1/style.css",
+		"/C/wamp/www/html5ecss3/anotacoes/modulo 4/unidade de medida relativa (fonte)1/index.html",
+		"/C/Users/alan/.gitconfig",
+		"/C/wamp/www/html5ecss3/anotacoes/modulo 4/unidades de medida absoluta/style.css",
+		"/C/wamp/www/html5ecss3/anotacoes/modulo 4/unidades de medida absoluta/index.html",
+		"/C/wamp/www/html5ecss3/anotacoes/modulo 4/cascata/index.html",
+		"/C/wamp/www/html5ecss3/anotacoes/modulo 4/cascata/style.css",
+		"/C/wamp/www/html5ecss3/anotacoes/modulo 4/especificidade/index.html",
+		"/C/wamp/www/html5ecss3/anotacoes/modulo 4/especificidade/style.css",
+		"/C/wamp/www/html5ecss3/anotacoes/modulo 4/herança/index.html",
+		"/C/wamp/www/html5ecss3/anotacoes/modulo 4/herança/style.css",
+		"/C/wamp/www/html5ecss3/anotacoes/modulo 3/input type file/style.css",
+		"/C/wamp/www/html5ecss3/anotacoes/modulo 3/input type file/index.html",
+		"/C/wamp/www/html5ecss3/anotacoes/modulo 3/input type hidden/index.html",
+		"/C/wamp/www/html5ecss3/anotacoes/modulo 3/input type hidden/style.css",
+		"/C/wamp/www/html5ecss3/anotacoes/modulo 3/validacoes nativas pt-2/index.html",
+		"/C/wamp/www/html5ecss3/anotacoes/modulo 3/validacoes nativas pt-2/style.css",
+		"/C/wamp/www/html5ecss3/anotacoes/modulo 3/validacoes nativas pt-1/style.css",
+		"/C/wamp/www/html5ecss3/anotacoes/modulo 3/validacoes nativas pt-1/index.html",
+		"/C/wamp/www/html5ecss3/anotacoes/modulo 3/tags fildset e legend/style.css",
+		"/C/wamp/www/html5ecss3/anotacoes/modulo 3/tags fildset e legend/index.html",
+		"/C/wamp/www/html5ecss3/anotacoes/modulo 6/formulario de pesquisa/index.html",
+		"/C/wamp/www/html5ecss3/anotacoes/modulo 6/formulario de pesquisa/assets/css/style.css"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 122.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 46.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 399.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

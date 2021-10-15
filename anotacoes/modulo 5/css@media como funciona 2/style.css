@@ -1,0 +1,23 @@
+table, td{
+	border: 1px solid #000;
+}
+table{
+	width: 100%;
+}
+h1{
+	font-size: 40px;
+	font-weight: bold;
+}
+@media only print{
+	h1{
+		font-size: 70px;
+		font-weight: normal;
+	}
+	table, td {
+		border: 0px;
+	}
+}
+
+/*
+@media only print - so quando voce for imprimir
+ */

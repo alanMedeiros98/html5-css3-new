@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title></title>
+	<link rel="stylesheet" href="style.css">
+</head>
+<body>
+	<form method="POST" action="flsdfçls.php">
+		<fieldset>
+			<legend>Dados Pessoais</legend>
+			<label>
+				Primeiro Nome:<br>
+				<input type="text" name="name" required minlength="2" maxlength="3">
+			</label><br>
+			<label>
+				Sobrenome:<br>
+				<input type="text" name="last_name">
+			</label><br>
+			<label>
+				Idade:<br>
+				<input type="number" name="age" step="2" min="18" max="120">
+			</label><br>
+			<label>
+				E-mail:<br>
+				<input type="text" name="email" pattern="(^[a-zA-Z0-9_.+]+@[a-zA-Z0-9-]+\.[a-zA-Z0-9-.]+$)" title="endereço de e-mail">
+			</label><br>
+			<label>
+				Data:<br>
+				<input type="date" name="birthdate" min="2021-04-30">
+			</label><br>
+		</fieldset>
+		<fieldset>
+			<legend>Dados da Empresa</legend>
+			<label>
+				Nome da Empresa:<br>
+				<input type="text" name="company_name">
+			</label><br>
+			<label>
+				Cargo na Empresa:<br>
+				<input type="text" name="company_job_title">
+			</label><br>
+		</fieldset>
+		<input type="submit" value="cadastrar">
+	</form>
+</body>
+</html>

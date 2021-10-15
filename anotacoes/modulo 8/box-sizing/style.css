@@ -1,0 +1,11 @@
+div{
+	width: 200px;
+	height: 200px;
+	background-color: green;
+	border: 10px solid red;
+	box-sizing: border-box;
+}
+/*
+box-sizing: content-box; - ele nao inclui o tamanho do de bordas, padding, margin
+box-sizing: border-box; - o border e o padding vao ser inclusos dentro do tamanho do meu elemento 
+ */

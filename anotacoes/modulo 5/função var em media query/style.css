@@ -1,0 +1,31 @@
+:root{
+	--bg-color: #000;
+	--bg-second: #444;
+	--font-color: #fff;
+	--font-size: 25px;
+}
+body{
+	background-color: var(--bg-color);
+}
+h1{
+	color: var(--font-color);
+	font-size: var(--font-size);
+}
+.container{
+	background-color: var(--bg-second);
+	color: var(--font-color);
+}
+@media (max-width: 450px){
+	:root{
+		--font-size: 15px;
+	}
+}
+
+/*
+para criar uma variavel no seu projeto inteiro basta voce fazer assim:
+
+:root {
+	--"nome da variavel": "valor";
+}
+para usar variaveis no @media basta voce usar :root dentro do seu @media e mudar a variavel
+ */

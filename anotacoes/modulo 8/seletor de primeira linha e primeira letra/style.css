@@ -1,0 +1,12 @@
+p::first-line{
+	background-color: yellow;
+}
+p::first-letter{
+	font-size: 30px;
+	font-weight: bold;
+}
+
+/*
+para selecionar so a primeira letra de um paragrafo basta voce usar ::first-letter
+para selecionar a primeira linha basta usar ::first-line
+ */

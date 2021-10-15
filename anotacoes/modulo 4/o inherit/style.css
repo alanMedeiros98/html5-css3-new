@@ -1,0 +1,18 @@
+body{
+	margin:  0px;
+}
+h1{
+	font-size: 30px;
+	color:  red;
+}
+.box{
+	font-size:  15px;
+	color:  blue;
+}
+.box h1{
+	font-size:  inherit;
+	color:  inherit;
+}
+/*
+o inherit força uma herança
+ */

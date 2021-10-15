@@ -1,0 +1,25 @@
+table{
+	border-collapse: collapse;
+	margin: auto;
+	margin-top: 100px;
+	width: 400px;
+}
+table, td{
+	border: 1px solid #000;
+}
+th, td{
+	padding: 8px;
+}
+th{
+	background-color: #0efff9;
+}
+tbody tr:nth-child(even){
+	background-color: #90EE90;
+}
+thead tr{
+	background-color: green;
+	font-weight: bold;
+}
+tbody tr:hover{
+	background-color: #6495ED;
+}

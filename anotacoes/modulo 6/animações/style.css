@@ -1,0 +1,28 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+.teste{
+	width: 200px;
+	height: 200px;
+	background-color: orange;
+	position: absolute;
+	animation-name: teste;
+	animation-duration: 5s;
+	animation-delay: 2s;
+	animation-iteration-count: infinite;
+}
+@keyframes teste{
+	0%{background-color: red;margin-top:0px;margin-left:0px;}
+	25%{background-color: blue;margin-top:0px;margin-left:200px;width: 400px;height: 200px;}
+	50%{background-color: yellow;margin-top:200px;margin-left:200px;width: 300px; height: 600px;}
+	75%{background-color: brown;margin-top:200px;margin-left:0px;width: 100px; height: 500px;}
+	100%{background-color: orange;margin-top:0px;margin-left:0px;width: 200px; height: 200px;}
+}
+/*
+animation-iteration-count: ; - quantas vezes voce quer que a animação se repita
+animation-name: ; - nome da animação
+animation-delay: ; - quanto tempo ela vai esperar para aniciar
+animation-duration: ; - quanto tempo a animação vai durar
+ */

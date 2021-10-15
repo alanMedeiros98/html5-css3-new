@@ -1,0 +1,14 @@
+input, a{
+	display: block;
+}
+[required]{
+	background-color: #f00;
+}
+[href]{
+	color: #0f0;
+}
+/*
+a[href^="https:"] - o "^" fala para selecionar os elementos que começam com "https:"
+a[href*="https:"] - o "*" fala para procurar em todo o valor a palavra "https:"
+a[href$="https:"] - o "$" fala para ele procurar os valores que terminam em "https:"
+ */

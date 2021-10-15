@@ -1,0 +1,18 @@
+html{
+	font-size: 10px;
+}
+h1{
+	font-size: 3rem;
+}
+.box{
+	font-size: 2rem;
+}
+.box-interno{
+	width: 10em;
+	height: 10em;
+	background-color: #999;
+}
+/*
+em - é baseada no font-size do item pai em que eu to botando
+rem - é a mesma coisa que o em mas ele se baseia em um unico cara só (1rem por padrão é 16px)
+ */

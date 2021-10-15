@@ -1,0 +1,15 @@
+*{
+	box-sizing: border-box;
+	/*margin: 0px;*/
+	/*padding: 0px;*/
+}
+fieldset{
+	background-color: #eee;
+	margin-bottom: 20px;
+	width: 208px;
+	border: 2px solid #f00;
+}
+legend{
+	padding-right: 5px;
+	padding-left: 5px;
+}

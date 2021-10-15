@@ -1,0 +1,14 @@
+.box{
+	width: 50%;
+	height: 400px;
+	background-color: #999;
+}
+.box-interno{
+	width: 50%;
+	height: 50%;
+	background-color: #333;
+}
+/*
+ex - é baseado no tamanho da fonte do "x" do seu navegador
+ch - é baseado na largura do espaçamento da fonte que voce estiver usando. obs: so funciona se voce estiver usando uma fonte mono space
+ */

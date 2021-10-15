@@ -1,0 +1,13 @@
+body{
+	margin:  0px;
+	background-color: blue;
+}
+/*
+voce pode colocar o proprio nome da cor só que precisa ser em INGLES o nome da cor
+
+usando o codigo hexadecimal da cor #ffffff;
+
+voce pode usar o rgb tambem os valores vão de 0 a 255 e voce usa assim .:rgb(255,0,100)
+
+voce tambem pode usar o currentColor que funciona usando o sistema de herança
+ */

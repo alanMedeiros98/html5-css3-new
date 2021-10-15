@@ -1,0 +1,13 @@
+body{
+	text-align: center;
+}
+div::before{
+	content: "->";
+	background-color: #0f0;
+	border: 1px solid #000;
+}
+div::after{
+	content: "<-";
+	background-color: #0f0;
+	border: 1px solid #000;
+}

@@ -1,0 +1,15 @@
+input, a{
+	display: block;
+}
+[required]{
+	background-color: #f00;
+}
+[href]{
+	color: #0f0;
+}
+
+/*
+para selecionar pelo atributo basta voce botar "[]" e colocar o atributo dentro dele
+input[required] - para selecionar um input que tenha um required dentro dele
+input[type=text] - para selecionar um input que tenha um type que seja igual a text, quando for name voce precisa colocar entre aspas pq nao é um parametro padrao do html
+ */

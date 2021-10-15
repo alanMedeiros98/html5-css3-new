@@ -1,0 +1,13 @@
+div{
+	background-color: #00f;
+	width: 100px;
+	height: 100px;
+}
+div:first-child{
+	border-top-left-radius: 15px;
+	border-top-right-radius: 15px;
+}
+div:last-child{
+	border-bottom-left-radius: 15px;
+	border-bottom-right-radius: 15px;
+}

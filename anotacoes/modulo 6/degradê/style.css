@@ -1,0 +1,11 @@
+.exemplo{
+	width: 300px;
+	height: 300px;
+	background: #00f;
+	background:-webkit-linear-gradient(-130deg, #fff, #00f);
+}
+/*
+background:-webkit-linear-gradient(90deg, #fff, #00f); - google chrome
+background:-moz-linear-gradient(90deg, #fff, #00f); - mozzila
+background:-o-linear-gradient(90deg, #fff, #00f); - opera
+ */

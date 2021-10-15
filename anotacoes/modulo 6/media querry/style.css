@@ -1,0 +1,15 @@
+*{
+	margin:0;
+	padding:0;
+}
+.teste{
+	width: 500px;
+	height: 300px;
+	background-color: #f00;
+}
+@media only screen and (max-width: 400px){
+	.teste{
+		width: 300px;
+	}
+}
+/*orientation: landscape - ele vai aplicar um css quando o celular estiver deitado*/

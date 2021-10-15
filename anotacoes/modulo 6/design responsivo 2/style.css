@@ -1,0 +1,39 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+.topo{
+	width: 100%;
+	background-color: #ffa500;
+	height: 150px;
+	text-align: center;
+	line-height: 130px;
+}
+h1{
+	font-size: 50px;
+}
+.container{
+	float: left;
+	width: 25%;
+}
+.titulo{
+	font-weight: bold;
+	padding-top: 20px;
+	padding-bottom: 30px;
+	font-size: 30px;
+	padding-left: 10px;
+}
+.lorem{
+	padding-left: 10px;
+}
+@media only screen and (min-width: 500px) and (max-width:800px){
+	.container{
+		width: 50%;
+	}
+}
+@media only screen and (max-width: 500px){
+	.container{
+		width: 100%;
+	}
+}
