@@ -7,7 +7,7 @@
 	font-size: 13px;
 }
 body{
-	margin-bottom: 100px;
+	margin-bottom: 200px;
 }
 .container{
 	height: 100%;
@@ -337,9 +337,10 @@ header{
 	padding: 0;
 }
 .section--team{
+	display: flex;
+	justify-content: space-between;
 	overflow-x: hidden;
-	max-width: 940px;
-	margin: auto;
+	max-width: 1140px;
 }
 .section--team--area{
 	background-color: rgba(0,0,0,0.8);
@@ -353,11 +354,11 @@ header{
 	display: flex;
 }
 .section--team .slide{
-	width: 300px;
+	width: 355px;
 	height: 100%;
-	min-height: 300px;
+	min-height: 430px;
 	background-color: #fff;
-	margin-right: 20px;
+	margin-right: 30px;
 }
 .section--team .slide:last-child{
 	margin-right: 0px;
@@ -366,7 +367,7 @@ header{
 	display: flex;
 	flex-direction: column;
 	width: 100%;
-	height: 100%;
+	height: 430px;
 	justify-content: center;
 	align-items: center;
 	color: #000;
@@ -393,23 +394,23 @@ header{
 	background-color: #b28756;
 }
 .section--team--avatar{
-	width: 150px;
+	width: 185px;
 	height: auto;
 }
 .section--team--name{
 	text-transform: uppercase;
 	font-weight: 600;
-	font-size: 17px;
-	margin-top: 30px;
+	font-size: 16px;
+	margin-top: 46px;
 }
 .section--team--role{
-	font-size: 14px;
+	font-size: 12px;
 	color: #999;
-	margin-top: 5px;
+	margin-top: 15px;
 }
 .section--team--social{
 	display: flex;
-	margin-top: 15px;
+	margin-top: 40px;
 }
 .section--team--social a{
 	display: flex;
@@ -417,8 +418,8 @@ header{
 	align-items: center;
 	margin-right: 10px;
 	border-radius: 50%;
-	width: 25px;
-	height: 25px;
+	width: 35px;
+	height: 35px;
 	background-color: #ccc;
 }
 .section--team--social a:last-child{
@@ -466,4 +467,72 @@ header{
 	margin-top: 20px;
 	color: #7e7e7e;
 	font-weight: 400;
+}
+/* terminando o clients */
+/* começando o sponsors */
+.default.light .section--sponsors{
+	display: flex;
+	justify-content: space-around;
+}
+.default.light .section--sponsors a{
+	display: flex;
+	align-items: center;
+}
+.border{
+	border-top: 1px solid #cfcfcf;
+}
+/* terminando o sponsors */
+/* começando o price */
+.default.light.grey{
+	background-color: #ededed;
+	border-top: 2px solid #cfcfcf;
+}
+.section--prices{
+	display: flex;
+	justify-content: space-around;
+}
+.section--price{
+	min-width: 255px;
+	background-color: #fff;
+	text-align: center;
+	padding: 30px 0px;
+}
+.section--price--title{
+	color: #242424;
+	font-size: 13px;
+	font-weight: 600;
+	margin-bottom: 18px;
+}
+.section--price--value{
+	color: #242424;
+	font-size: 30px;
+	font-weight: 600;
+	margin-bottom: 6px;
+}
+.section--price--month{
+	color: #aeaeae;
+	text-transform: uppercase;
+	font-size: 9px;
+	margin-bottom: 23px;
+}
+.section--price--beneficts{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+.section--price--benefict{
+	font-size: 9px;
+	color: #7d7d7d;
+}
+.section--price--bar{
+	width: 8px;
+	height: 1px;
+	background-color: #7d7d7d;
+	margin: 7px 0px;
+}
+.section--price .button{
+	background-color: #373737;
+}
+.section--price .button:hover{
+	background-color: #b28756;
 }
