@@ -536,3 +536,65 @@ header{
 .section--price .button:hover{
 	background-color: #b28756;
 }
+/* terminando o price */
+/* começando o features */
+.section--premium{
+	display: flex;
+	padding-left: 55px;
+	padding-bottom: 50px;
+	border-bottom: 1px solid #d8d8d8;
+}
+.section--premiums--features{
+	padding-left: 120px;
+	max-width: 610px;
+}
+.section--premiums--feature{
+	display: flex;
+	padding-bottom: 30px;
+}
+.section--premiums--feature:last-child{
+	padding-bottom: 0px;
+}
+.section--premiums--desc{
+	padding-left: 30px;
+}
+.section--premiums--desc--title{
+	font-size: 16px;
+	font-weight: 700;
+	text-transform: uppercase;
+}
+.section--premiums--desc--text{
+	font-size: 11px;
+	color: #8f8f8f;
+	padding-top: 15px;
+	line-height: 18px;
+}
+.section--premiums--desc--text div{
+	margin-top: 19px;
+}
+.section--premiums--desc--text p{
+	text-transform: uppercase;
+	color: #8e8e8e;
+}
+.section--premiums--desc--text p::before{
+	content: "";
+	display: inline-block;
+	margin-right: 6px;
+	margin-bottom: 4px;
+	width: 11px;
+	height: 1px;
+	background-color: #b8b8b8;
+}
+.center{
+	display: flex;
+	justify-content: center;
+}
+.center .button{
+	margin-top: 40px;
+	margin-bottom: 60px;
+}
+.sliders--pointers.feature{
+	margin-top: 40px;
+}
+/* terminando o features */
+/* começando o facts */
