@@ -700,3 +700,14 @@ header{
 }
 /* terminando o social medias */
 /* começando o contact */
+form label{
+	border-bottom: 2px solid #aeaeae;
+	padding-bottom: 15px;
+}
+form label input{
+	outline: none;
+	border: 0;
+	width: 210px;
+	background-color: #f7f7f7;
+	margin-left: 3px;
+}
