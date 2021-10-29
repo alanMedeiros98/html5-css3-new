@@ -700,14 +700,72 @@ header{
 }
 /* terminando o social medias */
 /* começando o contact */
+.section--contact{
+	max-width: 540px;
+	margin: inherit;
+}
+form div{
+	display: flex;
+	margin-bottom: 45px;
+}
+form .name{
+	margin-right: 30px;
+}
+form .message{
+	margin-top: 90px;
+}
 form label{
+	display: inline-block;
 	border-bottom: 2px solid #aeaeae;
 	padding-bottom: 15px;
+	width: 100%;
 }
 form label input{
 	outline: none;
 	border: 0;
-	width: 210px;
 	background-color: #f7f7f7;
 	margin-left: 3px;
+}
+form div:last-child{
+	display: flex;
+	justify-content: center;
+	margin-top: 20px;
+	margin-bottom: 25px;
+}
+/* terminando o contact */
+/* começando o map */
+.section--map{
+	background-image: url('../images/mapa.jpg');
+	background-size: cover;
+	background-position: center;
+	padding: 55px 0px;
+}
+.section--map--area{
+	width: 100%;
+	max-width: 1140px;
+	margin: auto;
+}
+.section--map--info{
+	width: 50%;
+	background-color: #fff;
+	color: #aeaeae;
+	padding: 30px;
+}
+.section--map--info--item{
+	display: flex;
+	align-items: center;
+	margin-bottom: 15px;
+}
+.section--map--info--item:last-child{
+	margin-bottom: 0px;
+}
+.section--map--info--img{
+	width: 35px;
+	height: 35px;
+	background-color: #aeaeae;
+	border-radius: 50%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin-right: 20px;
 }
