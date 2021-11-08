@@ -83,9 +83,9 @@ header{
 	overflow: hidden;
 }
 .banner .sliders{
-	width: 300vw;
+	width: 300%;
 	height: 100%;
-	margin-left: 0vw;
+	margin-left: 0%;
 	display: flex;
 }
 .banner .slide{
@@ -345,9 +345,9 @@ header{
 	padding-bottom: 50px;
 }
 .section--team .sliders{
-	width: 300vw;
+	width: 300%;
 	height: 100%;
-	margin-left: 0vw;
+	margin-left: 0%;
 	display: flex;
 }
 .section--team .slide{
@@ -827,4 +827,24 @@ form div:last-child{
 }
 .footer--email--button{
 	text-align:center;
+}
+/* terminando o footer */
+/* começando a responsividade */
+@media (min-width:450px) and (max-width:800px){
+	nav{
+		position: absolute;
+		z-index: 99;
+		background-color: rgba(0, 0, 0, 0.8);
+		width: 80%;
+		height: calc(100% - 100px);
+		top: 100px;
+		right: 0;
+		overflow-x:hidden;
+	}
+	.section--prices{
+		flex-direction:column;
+	}
+	.footer{
+		flex-direction:column;
+	}
 }
